@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/PaesslerAG/jsonpath v0.1.1
-	github.com/alecthomas/participle/v2 v2.0.0-beta.1
+	github.com/alecthomas/participle/v2 v2.0.0-beta.4
 	github.com/docker/go-connections v0.4.0
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/go-sql-driver/mysql v1.6.0
